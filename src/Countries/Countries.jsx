@@ -5,7 +5,7 @@ import Country from './Country';
 const Countries = () => {
 
 const countries = useLoaderData()
-// console.log(countries)
+    
 
     return (
 
